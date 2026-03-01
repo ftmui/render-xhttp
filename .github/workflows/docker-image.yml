@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io//ftmuirender:latest
+          tags: ghcr.io//ftmuirender1:latest
